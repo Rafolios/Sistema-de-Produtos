@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.exe
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.deps.json
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.runtimeconfig.json
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.runtimeconfig.dev.json
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.dll
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\ref\projetinho.dll
+C:\Users\User\Desktop\projetinho\bin\Debug\net5.0\projetinho.pdb
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.AssemblyInfo.cs
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.dll
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\ref\projetinho.dll
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.pdb
+C:\Users\User\Desktop\projetinho\obj\Debug\net5.0\projetinho.genruntimeconfig.cache
